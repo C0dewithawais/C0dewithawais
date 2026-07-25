@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://3ddportfolio-mhed.vercel.app/](https://3ddportfolio-mhed.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://3ddportfolio-mhed.vercel.app](https://awais.jhaanjar.pk/)]
 
 - 📫 How to reach me **awaisalisabir1@gmail.com**
 
-- 📄 Know about my experiences [https://3ddportfolio-mhed.vercel.app/](https://3ddportfolio-mhed.vercel.app/)
+- 📄 Know about my experiences [https://3ddportfolio-mhed.vercel.app/](https://awais.jhaanjar.pk/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
